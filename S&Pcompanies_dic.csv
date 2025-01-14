@@ -1,0 +1,504 @@
+Symbol,GICS Sector
+MMM,Industrials S&P 500
+AOS,Industrials S&P 500
+ABT,Health Care S&P 500
+ABBV,Health Care S&P 500
+ACN,Information Technology S&P 500
+ADBE,Information Technology S&P 500
+AMD,Information Technology S&P 500
+AES,Utilities S&P 500
+AFL,Financials S&P 500
+A,Health Care S&P 500
+APD,Materials S&P 500
+ABNB,Consumer Discretionary S&P 500
+AKAM,Information Technology S&P 500
+ALB,Materials S&P 500
+ARE,Real Estate S&P 500
+ALGN,Health Care S&P 500
+ALLE,Industrials S&P 500
+LNT,Utilities S&P 500
+ALL,Financials S&P 500
+GOOGL,Communication Services S&P 500
+GOOG,Communication Services S&P 500
+MO,Consumer Staples S&P 500
+AMZN,Consumer Discretionary S&P 500
+AMCR,Materials S&P 500
+AEE,Utilities S&P 500
+AAL,Industrials S&P 500
+AEP,Utilities S&P 500
+AXP,Financials S&P 500
+AIG,Financials S&P 500
+AMT,Real Estate S&P 500
+AWK,Utilities S&P 500
+AMP,Financials S&P 500
+AME,Industrials S&P 500
+AMGN,Health Care S&P 500
+APH,Information Technology S&P 500
+ADI,Information Technology S&P 500
+ANSS,Information Technology S&P 500
+AON,Financials S&P 500
+APA,Energy S&P 500
+AAPL,Information Technology S&P 500
+AMAT,Information Technology S&P 500
+APTV,Consumer Discretionary S&P 500
+ACGL,Financials S&P 500
+ADM,Consumer Staples S&P 500
+ANET,Information Technology S&P 500
+AJG,Financials S&P 500
+AIZ,Financials S&P 500
+T,Communication Services S&P 500
+ATO,Utilities S&P 500
+ADSK,Information Technology S&P 500
+ADP,Industrials S&P 500
+AZO,Consumer Discretionary S&P 500
+AVB,Real Estate S&P 500
+AVY,Materials S&P 500
+AXON,Industrials S&P 500
+BKR,Energy S&P 500
+BALL,Materials S&P 500
+BAC,Financials S&P 500
+BK,Financials S&P 500
+BBWI,Consumer Discretionary S&P 500
+BAX,Health Care S&P 500
+BDX,Health Care S&P 500
+BRK.B,Financials S&P 500
+BBY,Consumer Discretionary S&P 500
+BIO,Health Care S&P 500
+TECH,Health Care S&P 500
+BIIB,Health Care S&P 500
+BLK,Financials S&P 500
+BX,Financials S&P 500
+BA,Industrials S&P 500
+BKNG,Consumer Discretionary S&P 500
+BWA,Consumer Discretionary S&P 500
+BSX,Health Care S&P 500
+BMY,Health Care S&P 500
+AVGO,Information Technology S&P 500
+BR,Industrials S&P 500
+BRO,Financials S&P 500
+BF.B,Consumer Staples S&P 500
+BLDR,Industrials S&P 500
+BG,Consumer Staples S&P 500
+BXP,Real Estate S&P 500
+CDNS,Information Technology S&P 500
+CZR,Consumer Discretionary S&P 500
+CPT,Real Estate S&P 500
+CPB,Consumer Staples S&P 500
+COF,Financials S&P 500
+CAH,Health Care S&P 500
+KMX,Consumer Discretionary S&P 500
+CCL,Consumer Discretionary S&P 500
+CARR,Industrials S&P 500
+CTLT,Health Care S&P 500
+CAT,Industrials S&P 500
+CBOE,Financials S&P 500
+CBRE,Real Estate S&P 500
+CDW,Information Technology S&P 500
+CE,Materials S&P 500
+COR,Health Care S&P 500
+CNC,Health Care S&P 500
+CNP,Utilities S&P 500
+CF,Materials S&P 500
+CHRW,Industrials S&P 500
+CRL,Health Care S&P 500
+SCHW,Financials S&P 500
+CHTR,Communication Services S&P 500
+CVX,Energy S&P 500
+CMG,Consumer Discretionary S&P 500
+CB,Financials S&P 500
+CHD,Consumer Staples S&P 500
+CI,Health Care S&P 500
+CINF,Financials S&P 500
+CTAS,Industrials S&P 500
+CSCO,Information Technology S&P 500
+C,Financials S&P 500
+CFG,Financials S&P 500
+CLX,Consumer Staples S&P 500
+CME,Financials S&P 500
+CMS,Utilities S&P 500
+KO,Consumer Staples S&P 500
+CTSH,Information Technology S&P 500
+CL,Consumer Staples S&P 500
+CMCSA,Communication Services S&P 500
+CAG,Consumer Staples S&P 500
+COP,Energy S&P 500
+ED,Utilities S&P 500
+STZ,Consumer Staples S&P 500
+CEG,Utilities S&P 500
+COO,Health Care S&P 500
+CPRT,Industrials S&P 500
+GLW,Information Technology S&P 500
+CPAY,Financials S&P 500
+CTVA,Materials S&P 500
+CSGP,Real Estate S&P 500
+COST,Consumer Staples S&P 500
+CTRA,Energy S&P 500
+CRWD,Information Technology S&P 500
+CCI,Real Estate S&P 500
+CSX,Industrials S&P 500
+CMI,Industrials S&P 500
+CVS,Health Care S&P 500
+DHR,Health Care S&P 500
+DRI,Consumer Discretionary S&P 500
+DVA,Health Care S&P 500
+DAY,Industrials S&P 500
+DECK,Consumer Discretionary S&P 500
+DE,Industrials S&P 500
+DAL,Industrials S&P 500
+DVN,Energy S&P 500
+DXCM,Health Care S&P 500
+FANG,Energy S&P 500
+DLR,Real Estate S&P 500
+DFS,Financials S&P 500
+DG,Consumer Staples S&P 500
+DLTR,Consumer Staples S&P 500
+D,Utilities S&P 500
+DPZ,Consumer Discretionary S&P 500
+DOV,Industrials S&P 500
+DOW,Materials S&P 500
+DHI,Consumer Discretionary S&P 500
+DTE,Utilities S&P 500
+DUK,Utilities S&P 500
+DD,Materials S&P 500
+EMN,Materials S&P 500
+ETN,Industrials S&P 500
+EBAY,Consumer Discretionary S&P 500
+ECL,Materials S&P 500
+EIX,Utilities S&P 500
+EW,Health Care S&P 500
+EA,Communication Services S&P 500
+ELV,Health Care S&P 500
+EMR,Industrials S&P 500
+ENPH,Information Technology S&P 500
+ETR,Utilities S&P 500
+EOG,Energy S&P 500
+EPAM,Information Technology S&P 500
+EQT,Energy S&P 500
+EFX,Industrials S&P 500
+EQIX,Real Estate S&P 500
+EQR,Real Estate S&P 500
+ESS,Real Estate S&P 500
+EL,Consumer Staples S&P 500
+ETSY,Consumer Discretionary S&P 500
+EG,Financials S&P 500
+EVRG,Utilities S&P 500
+ES,Utilities S&P 500
+EXC,Utilities S&P 500
+EXPE,Consumer Discretionary S&P 500
+EXPD,Industrials S&P 500
+EXR,Real Estate S&P 500
+XOM,Energy S&P 500
+FFIV,Information Technology S&P 500
+FDS,Financials S&P 500
+FICO,Information Technology S&P 500
+FAST,Industrials S&P 500
+FRT,Real Estate S&P 500
+FDX,Industrials S&P 500
+FIS,Financials S&P 500
+FITB,Financials S&P 500
+FSLR,Information Technology S&P 500
+FE,Utilities S&P 500
+FI,Financials S&P 500
+FMC,Materials S&P 500
+F,Consumer Discretionary S&P 500
+FTNT,Information Technology S&P 500
+FTV,Industrials S&P 500
+FOXA,Communication Services S&P 500
+FOX,Communication Services S&P 500
+BEN,Financials S&P 500
+FCX,Materials S&P 500
+GRMN,Consumer Discretionary S&P 500
+IT,Information Technology S&P 500
+GE,Industrials S&P 500
+GEHC,Health Care S&P 500
+GEV,Industrials S&P 500
+GEN,Information Technology S&P 500
+GNRC,Industrials S&P 500
+GD,Industrials S&P 500
+GIS,Consumer Staples S&P 500
+GM,Consumer Discretionary S&P 500
+GPC,Consumer Discretionary S&P 500
+GILD,Health Care S&P 500
+GPN,Financials S&P 500
+GL,Financials S&P 500
+GDDY,Information Technology S&P 500
+GS,Financials S&P 500
+HAL,Energy S&P 500
+HIG,Financials S&P 500
+HAS,Consumer Discretionary S&P 500
+HCA,Health Care S&P 500
+DOC,Real Estate S&P 500
+HSIC,Health Care S&P 500
+HSY,Consumer Staples S&P 500
+HES,Energy S&P 500
+HPE,Information Technology S&P 500
+HLT,Consumer Discretionary S&P 500
+HOLX,Health Care S&P 500
+HD,Consumer Discretionary S&P 500
+HON,Industrials S&P 500
+HRL,Consumer Staples S&P 500
+HST,Real Estate S&P 500
+HWM,Industrials S&P 500
+HPQ,Information Technology S&P 500
+HUBB,Industrials S&P 500
+HUM,Health Care S&P 500
+HBAN,Financials S&P 500
+HII,Industrials S&P 500
+IBM,Information Technology S&P 500
+IEX,Industrials S&P 500
+IDXX,Health Care S&P 500
+ITW,Industrials S&P 500
+INCY,Health Care S&P 500
+IR,Industrials S&P 500
+PODD,Health Care S&P 500
+INTC,Information Technology S&P 500
+ICE,Financials S&P 500
+IFF,Materials S&P 500
+IP,Materials S&P 500
+IPG,Communication Services S&P 500
+INTU,Information Technology S&P 500
+ISRG,Health Care S&P 500
+IVZ,Financials S&P 500
+INVH,Real Estate S&P 500
+IQV,Health Care S&P 500
+IRM,Real Estate S&P 500
+JBHT,Industrials S&P 500
+JBL,Information Technology S&P 500
+JKHY,Financials S&P 500
+J,Industrials S&P 500
+JNJ,Health Care S&P 500
+JCI,Industrials S&P 500
+JPM,Financials S&P 500
+JNPR,Information Technology S&P 500
+K,Consumer Staples S&P 500
+KVUE,Consumer Staples S&P 500
+KDP,Consumer Staples S&P 500
+KEY,Financials S&P 500
+KEYS,Information Technology S&P 500
+KMB,Consumer Staples S&P 500
+KIM,Real Estate S&P 500
+KMI,Energy S&P 500
+KKR,Financials S&P 500
+KLAC,Information Technology S&P 500
+KHC,Consumer Staples S&P 500
+KR,Consumer Staples S&P 500
+LHX,Industrials S&P 500
+LH,Health Care S&P 500
+LRCX,Information Technology S&P 500
+LW,Consumer Staples S&P 500
+LVS,Consumer Discretionary S&P 500
+LDOS,Industrials S&P 500
+LEN,Consumer Discretionary S&P 500
+LLY,Health Care S&P 500
+LIN,Materials S&P 500
+LYV,Communication Services S&P 500
+LKQ,Consumer Discretionary S&P 500
+LMT,Industrials S&P 500
+L,Financials S&P 500
+LOW,Consumer Discretionary S&P 500
+LULU,Consumer Discretionary S&P 500
+LYB,Materials S&P 500
+MTB,Financials S&P 500
+MRO,Energy S&P 500
+MPC,Energy S&P 500
+MKTX,Financials S&P 500
+MAR,Consumer Discretionary S&P 500
+MMC,Financials S&P 500
+MLM,Materials S&P 500
+MAS,Industrials S&P 500
+MA,Financials S&P 500
+MTCH,Communication Services S&P 500
+MKC,Consumer Staples S&P 500
+MCD,Consumer Discretionary S&P 500
+MCK,Health Care S&P 500
+MDT,Health Care S&P 500
+MRK,Health Care S&P 500
+META,Communication Services S&P 500
+MET,Financials S&P 500
+MTD,Health Care S&P 500
+MGM,Consumer Discretionary S&P 500
+MCHP,Information Technology S&P 500
+MU,Information Technology S&P 500
+MSFT,Information Technology S&P 500
+MAA,Real Estate S&P 500
+MRNA,Health Care S&P 500
+MHK,Consumer Discretionary S&P 500
+MOH,Health Care S&P 500
+TAP,Consumer Staples S&P 500
+MDLZ,Consumer Staples S&P 500
+MPWR,Information Technology S&P 500
+MNST,Consumer Staples S&P 500
+MCO,Financials S&P 500
+MS,Financials S&P 500
+MOS,Materials S&P 500
+MSI,Information Technology S&P 500
+MSCI,Financials S&P 500
+NDAQ,Financials S&P 500
+NTAP,Information Technology S&P 500
+NFLX,Communication Services S&P 500
+NEM,Materials S&P 500
+NWSA,Communication Services S&P 500
+NWS,Communication Services S&P 500
+NEE,Utilities S&P 500
+NKE,Consumer Discretionary S&P 500
+NI,Utilities S&P 500
+NDSN,Industrials S&P 500
+NSC,Industrials S&P 500
+NTRS,Financials S&P 500
+NOC,Industrials S&P 500
+NCLH,Consumer Discretionary S&P 500
+NRG,Utilities S&P 500
+NUE,Materials S&P 500
+NVDA,Information Technology S&P 500
+NVR,Consumer Discretionary S&P 500
+NXPI,Information Technology S&P 500
+ORLY,Consumer Discretionary S&P 500
+OXY,Energy S&P 500
+ODFL,Industrials S&P 500
+OMC,Communication Services S&P 500
+ON,Information Technology S&P 500
+OKE,Energy S&P 500
+ORCL,Information Technology S&P 500
+OTIS,Industrials S&P 500
+PCAR,Industrials S&P 500
+PKG,Materials S&P 500
+PANW,Information Technology S&P 500
+PARA,Communication Services S&P 500
+PH,Industrials S&P 500
+PAYX,Industrials S&P 500
+PAYC,Industrials S&P 500
+PYPL,Financials S&P 500
+PNR,Industrials S&P 500
+PEP,Consumer Staples S&P 500
+PFE,Health Care S&P 500
+PCG,Utilities S&P 500
+PM,Consumer Staples S&P 500
+PSX,Energy S&P 500
+PNW,Utilities S&P 500
+PNC,Financials S&P 500
+POOL,Consumer Discretionary S&P 500
+PPG,Materials S&P 500
+PPL,Utilities S&P 500
+PFG,Financials S&P 500
+PG,Consumer Staples S&P 500
+PGR,Financials S&P 500
+PLD,Real Estate S&P 500
+PRU,Financials S&P 500
+PEG,Utilities S&P 500
+PTC,Information Technology S&P 500
+PSA,Real Estate S&P 500
+PHM,Consumer Discretionary S&P 500
+QRVO,Information Technology S&P 500
+PWR,Industrials S&P 500
+QCOM,Information Technology S&P 500
+DGX,Health Care S&P 500
+RL,Consumer Discretionary S&P 500
+RJF,Financials S&P 500
+RTX,Industrials S&P 500
+O,Real Estate S&P 500
+REG,Real Estate S&P 500
+REGN,Health Care S&P 500
+RF,Financials S&P 500
+RSG,Industrials S&P 500
+RMD,Health Care S&P 500
+RVTY,Health Care S&P 500
+ROK,Industrials S&P 500
+ROL,Industrials S&P 500
+ROP,Information Technology S&P 500
+ROST,Consumer Discretionary S&P 500
+RCL,Consumer Discretionary S&P 500
+SPGI,Financials S&P 500
+CRM,Information Technology S&P 500
+SBAC,Real Estate S&P 500
+SLB,Energy S&P 500
+STX,Information Technology S&P 500
+SRE,Utilities S&P 500
+NOW,Information Technology S&P 500
+SHW,Materials S&P 500
+SPG,Real Estate S&P 500
+SWKS,Information Technology S&P 500
+SJM,Consumer Staples S&P 500
+SW,Materials S&P 500
+SNA,Industrials S&P 500
+SOLV,Health Care S&P 500
+SO,Utilities S&P 500
+LUV,Industrials S&P 500
+SWK,Industrials S&P 500
+SBUX,Consumer Discretionary S&P 500
+STT,Financials S&P 500
+STLD,Materials S&P 500
+STE,Health Care S&P 500
+SYK,Health Care S&P 500
+SMCI,Information Technology S&P 500
+SYF,Financials S&P 500
+SNPS,Information Technology S&P 500
+SYY,Consumer Staples S&P 500
+TMUS,Communication Services S&P 500
+TROW,Financials S&P 500
+TTWO,Communication Services S&P 500
+TPR,Consumer Discretionary S&P 500
+TRGP,Energy S&P 500
+TGT,Consumer Staples S&P 500
+TEL,Information Technology S&P 500
+TDY,Information Technology S&P 500
+TFX,Health Care S&P 500
+TER,Information Technology S&P 500
+TSLA,Consumer Discretionary S&P 500
+TXN,Information Technology S&P 500
+TXT,Industrials S&P 500
+TMO,Health Care S&P 500
+TJX,Consumer Discretionary S&P 500
+TSCO,Consumer Discretionary S&P 500
+TT,Industrials S&P 500
+TDG,Industrials S&P 500
+TRV,Financials S&P 500
+TRMB,Information Technology S&P 500
+TFC,Financials S&P 500
+TYL,Information Technology S&P 500
+TSN,Consumer Staples S&P 500
+USB,Financials S&P 500
+UBER,Industrials S&P 500
+UDR,Real Estate S&P 500
+ULTA,Consumer Discretionary S&P 500
+UNP,Industrials S&P 500
+UAL,Industrials S&P 500
+UPS,Industrials S&P 500
+URI,Industrials S&P 500
+UNH,Health Care S&P 500
+UHS,Health Care S&P 500
+VLO,Energy S&P 500
+VTR,Real Estate S&P 500
+VLTO,Industrials S&P 500
+VRSN,Information Technology S&P 500
+VRSK,Industrials S&P 500
+VZ,Communication Services S&P 500
+VRTX,Health Care S&P 500
+VTRS,Health Care S&P 500
+VICI,Real Estate S&P 500
+V,Financials S&P 500
+VST,Utilities S&P 500
+VMC,Materials S&P 500
+WRB,Financials S&P 500
+GWW,Industrials S&P 500
+WAB,Industrials S&P 500
+WBA,Consumer Staples S&P 500
+WMT,Consumer Staples S&P 500
+DIS,Communication Services S&P 500
+WBD,Communication Services S&P 500
+WM,Industrials S&P 500
+WAT,Health Care S&P 500
+WEC,Utilities S&P 500
+WFC,Financials S&P 500
+WELL,Real Estate S&P 500
+WST,Health Care S&P 500
+WDC,Information Technology S&P 500
+WY,Real Estate S&P 500
+WMB,Energy S&P 500
+WTW,Financials S&P 500
+WYNN,Consumer Discretionary S&P 500
+XEL,Utilities S&P 500
+XYL,Industrials S&P 500
+YUM,Consumer Discretionary S&P 500
+ZBRA,Information Technology S&P 500
+ZBH,Health Care S&P 500
+ZTS,Health Care S&P 500
